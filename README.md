@@ -10,7 +10,6 @@ This is the HC-SR04 ultrasonic ranging sensor. This economical sensor provides 2
 Repository Contents
 -------------------
 
-* **/Documentation** - Datasheets, additional product information
 * **/Firmware** - Example code 
 
 License Information
