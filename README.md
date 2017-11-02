@@ -6,16 +6,12 @@ Ultrasonic Sensor - HC-SR04
 [*SEN-13959*](https://www.sparkfun.com/products/13959)
 
 This is the HC-SR04 ultrasonic ranging sensor. This economical sensor provides 2cm to 400cm of non-contact measurement functionality with a ranging accuracy that can reach up to 3mm. 
+
 Repository Contents
 -------------------
 
-* **/Documentation** - Data sheets, additional product information
+* **/Documentation** - Datasheets, additional product information
 * **/Firmware** - Example code 
-* **/Software** - Related software for the <PRODUCT NAME>
-
-Product Versions
-----------------
-* [Part SKU](part URL)- Basic part and short description here
 
 License Information
 -------------------
