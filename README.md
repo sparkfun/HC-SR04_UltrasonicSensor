@@ -1,9 +1,9 @@
 Ultrasonic Sensor - HC-SR04
 ========================================
 
-![Ultrasonic Sensor - HC-SR04](https://cdn.sparkfun.com//assets/parts/1/1/6/6/8/13959-01a.jpg)
+[![Ultrasonic Sensor - HC-SR04](https://cdn.sparkfun.com//assets/parts/1/3/5/0/8/15569-Ultrasonic_Distance_Sensor_-_HC-SR04-01.jpg)](https://www.sparkfun.com/products/15569))
 
-[*SEN-13959*](https://www.sparkfun.com/products/13959)
+[*Ultrasonic Sensor HC-SR04 (SEN-15569)*](https://www.sparkfun.com/products/15569)
 
 This is the HC-SR04 ultrasonic ranging sensor. This economical sensor provides 2cm to 400cm of non-contact measurement functionality with a ranging accuracy that can reach up to 3mm. 
 
@@ -11,6 +11,16 @@ Repository Contents
 -------------------
 
 * **/Firmware** - Arduino example code.
+
+Documentation
+--------------
+
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v40/circuit-3b-distance-sensor)** - Basic hookup and project example using the ultrasonic sensor.
+
+Product Versions
+----------------
+* [SEN-15569](https://www.sparkfun.com/products/15569)- Blue ultrasonic sensor w/ crystal
+* [SEN-13959](https://www.sparkfun.com/products/13959)- Red ultrasonic sensor w/out crystal
 
 License Information
 -------------------
