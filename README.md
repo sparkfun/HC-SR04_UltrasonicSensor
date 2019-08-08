@@ -10,12 +10,12 @@ This is the HC-SR04 ultrasonic ranging sensor. This economical sensor provides 2
 Repository Contents
 -------------------
 
-* **/Firmware** - Arduino example code.
+* **/Firmware** - Arduino example code. Make sure to check the pin definitions and what you are connecting to.
 
 Documentation
 --------------
 
-* **[Hookup Guide](https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v40/circuit-3b-distance-sensor)** - Basic hookup and project example using the ultrasonic sensor.
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v40/circuit-3b-distance-sensor)** - Basic hookup and project example using the ultrasonic sensor. _(Note: The example code used in this tutorial is slightly different than the basic example used in this GitHub repo. Make sure to check your pin definitions if you are just using just the ultrasonic sensor.)_
 
 Product Versions
 ----------------
