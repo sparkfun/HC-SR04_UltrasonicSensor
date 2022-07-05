@@ -5,11 +5,11 @@ Ultrasonic Sensor - HC-SR04
 
 [*Ultrasonic Sensor HC-SR04 (SEN-15569)*](https://www.sparkfun.com/products/15569)
 
-[*HC-SR04 data sheet*](https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf)
-
 This is the HC-SR04 ultrasonic ranging sensor. This economical sensor provides 2cm to 400cm of non-contact measurement functionality with a ranging accuracy that can reach up to 3mm. 
 
 There are only four pins that you need to worry about on the HC-SR04: VCC (Power), Trig (Trigger), Echo (Receive), and GND (Ground). 
+
+[*HC-SR04 data sheet*](https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf)
 
 
 
